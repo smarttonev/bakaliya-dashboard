@@ -105,8 +105,13 @@ st.markdown("""
             <p>Централизиран контролен панел за търговски одит, ценови импорти, банкови засичания и репликация</p>
         </div>
         <div style="text-align: right;">
-            <span class="status-badge badge-ok">🟢 11 Магазина + ЦО</span><br>
-            <span style="font-size: 12px; color: #CBD5E1;">Валутен режим: 100% EUR (€)</span>
+            <a href="https://github.com/smarttonev/bakaliya-dashboard" target="_blank" style="text-decoration: none;">
+                <span class="status-badge" style="background-color: #334155; color: #FFFFFF; border: 1px solid #475569; margin-bottom: 4px; display: inline-block;">
+                    🐙 GitHub: smarttonev/bakaliya-dashboard ↗
+                </span>
+            </a><br>
+            <span class="status-badge badge-ok">🟢 11 Магазина + ЦО</span>
+            <span style="font-size: 12px; color: #CBD5E1; margin-left: 6px;">100% EUR (€)</span>
         </div>
     </div>
 </div>
