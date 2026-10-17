@@ -32,3 +32,6 @@ Desktop.ini
 
 # Streamlit config with local secrets
 .streamlit/secrets.toml
+
+.github_config.json
+scratch/
