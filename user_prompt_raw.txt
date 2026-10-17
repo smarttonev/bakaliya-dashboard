@@ -1,0 +1,9 @@
+<USER_REQUEST>
+Можеш ли да наложиш количествата от продажбите не през януари на подадените нови цени от Яско и Рожен (от файла с ценовата листа). И да изчислим каква разлика в покупната стойност ще се получи ако зареждаме от единия или другия доставчик, както и разликата в маржа. В таблицата с ценовите листи има и нашите артикулни номера - за по лесна съпоставк с файла с продажбите за януари.
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-10-13T15:31:58+03:00.
+</ADDITIONAL_METADATA>
+<USER_SETTINGS_CHANGE>
+The user changed setting `Model Selection` from None to Gemini 3.8 Flash (High). No need to comment on this change if the user doesn't ask about it. If reporting what model you are, please use a human readable name instead of the exact string.
+</USER_SETTINGS_CHANGE>

@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+
+# Firebird Database files (Security & Size)
+*.fdb
+*.FDB
+*.gdb
+*.GDB
+*.bak
+*.BAK
+
+# Temporary files & Logs
+*.log
+*.tmp
+temp_*
+scratch/
+scratch_*
+
+# Audit exports & large data files
+ОДИТ_*.xlsx
+*.tsv
+
+# OS generated
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Streamlit config with local secrets
+.streamlit/secrets.toml

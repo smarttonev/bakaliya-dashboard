@@ -1,0 +1,12 @@
+{
+  "email_address": "broshurabakaliya@gmail.com",
+  "app_password": "ovzljcdzjgwcmoln",
+  "sender_name": "Търговски отдел — Супермаркети „Бакалия“",
+  "imap_server": "imap.gmail.com",
+  "imap_port": 993,
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "auto_mark_read": true,
+  "allow_sending": false,
+  "test_mode_only": true
+}

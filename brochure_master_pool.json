@@ -1,0 +1,2754 @@
+[
+  {
+    "raw_name": "Б-ТИ ЕВЕРЕСТ С КАКАО 215 ГР.",
+    "marketing_name": "Б-ТИ ЕВЕРЕСТ С КАКАО 215 ГР.",
+    "supplier": "………………………………",
+    "barcode": "1411201",
+    "unit": "215гр",
+    "reg_dc": 1.1496,
+    "promo_dc": 1.0265927999999997,
+    "promo_pc": 1.65,
+    "mistral_codes": [
+      630373
+    ],
+    "group_id": 3,
+    "group_name": "захарни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.86,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Б-ТИ ЕВЕРЕСТ С МЛЯКО 215 ГР.",
+    "marketing_name": "Б-ТИ ЕВЕРЕСТ С МЛЯКО 215 ГР.",
+    "supplier": "………………………………",
+    "barcode": "1411202",
+    "unit": "215гр",
+    "reg_dc": 1.1496,
+    "promo_dc": 1.0265927999999997,
+    "promo_pc": 1.65,
+    "mistral_codes": [
+      630374
+    ],
+    "group_id": 3,
+    "group_name": "захарни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.86,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Б-ТИ ЕВЕРЕСТ С ОРЕХОВКА 215 ГР.",
+    "marketing_name": "Б-ТИ ЕВЕРЕСТ С ОРЕХОВКА 215 ГР.",
+    "supplier": "………………………………",
+    "barcode": "1411203",
+    "unit": "215гр",
+    "reg_dc": 1.1496,
+    "promo_dc": 1.0265927999999997,
+    "promo_pc": 1.65,
+    "mistral_codes": [
+      9659
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.63,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Б-ТИ ЕВЕРЕСТ С МАСЛО 220 ГР.",
+    "marketing_name": "Б-ТИ ЕВЕРЕСТ С МАСЛО 220 ГР.",
+    "supplier": "………………………………",
+    "barcode": "1411204",
+    "unit": "220гр",
+    "reg_dc": 1.1496,
+    "promo_dc": 1.0265927999999997,
+    "promo_pc": 1.65,
+    "mistral_codes": [
+      8728
+    ],
+    "group_id": 8,
+    "group_name": "млечни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.86,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "FITSPO Протеин.бар Крънчи - Шоко брауни 60г",
+    "marketing_name": "FITSPO Протеин.бар Крънчи - Шоко брауни 60г",
+    "supplier": "………………………………",
+    "barcode": "2600105",
+    "unit": "60г",
+    "reg_dc": 1.638,
+    "promo_dc": 1.3857479999999998,
+    "promo_pc": 2.04,
+    "mistral_codes": [
+      10797
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.45,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "FITSPO Протеин.бар Крънчи  Ягодов чийзкейк 60г",
+    "marketing_name": "FITSPO Протеин.бар Крънчи Ягодов чийзкейк 60г",
+    "supplier": "………………………………",
+    "barcode": "2600128",
+    "unit": "60г",
+    "reg_dc": 1.638,
+    "promo_dc": 1.3857479999999998,
+    "promo_pc": 1.43,
+    "mistral_codes": [
+      17557
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.4,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "FITSPO Протеин.бар Крънчи Кокос и бадем 60г",
+    "marketing_name": "FITSPO Протеин.бар Крънчи Кокос и бадем 60г",
+    "supplier": "………………………………",
+    "barcode": "2600127",
+    "unit": "60г",
+    "reg_dc": 1.638,
+    "promo_dc": 1.3857479999999998,
+    "promo_pc": 3.06,
+    "mistral_codes": [
+      9899
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.38,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "FITSPO Протеин.бар Крънчи Малина и млечен шоколад",
+    "marketing_name": "FITSPO Протеин.бар Крънчи Малина и млечен шоколад",
+    "supplier": "………………………………",
+    "barcode": "2600130",
+    "unit": "бр.",
+    "reg_dc": 1.638,
+    "promo_dc": 1.3857479999999998,
+    "promo_pc": 1.43,
+    "mistral_codes": [
+      16073
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.42,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "FITSPO Протеин.бар Крънчи Фъстъчено масло и караме",
+    "marketing_name": "FITSPO Протеин.бар Крънчи Фъстъчено масло и караме",
+    "supplier": "………………………………",
+    "barcode": "2600129",
+    "unit": "бр.",
+    "reg_dc": 1.638,
+    "promo_dc": 1.3857479999999998,
+    "promo_pc": 5.11,
+    "mistral_codes": [
+      14278
+    ],
+    "group_id": 8,
+    "group_name": "млечни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.52,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "FITSPO Протеин.бар Крънчи Шамфъстък 60г",
+    "marketing_name": "FITSPO Протеин.бар Крънчи Шамфъстък 60г",
+    "supplier": "………………………………",
+    "barcode": "2600126",
+    "unit": "60г",
+    "reg_dc": 1.638,
+    "promo_dc": 1.3857479999999998,
+    "promo_pc": 1.28,
+    "mistral_codes": [
+      18198
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.4,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ДЕТСТВО МОЕ Пети бьор 220 гр - Класик",
+    "marketing_name": "ДЕТСТВО МОЕ Пети бьор 220 гр - Класик",
+    "supplier": "………………………………",
+    "barcode": "1370109",
+    "unit": "220гр",
+    "reg_dc": 0.9504,
+    "promo_dc": 0.8487071999999999,
+    "promo_pc": 1.38,
+    "mistral_codes": [
+      8648
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.82,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ДЕТСТВО МОЕ Пети бьор 220 гр - Масло",
+    "marketing_name": "ДЕТСТВО МОЕ Пети бьор 220 гр - Масло",
+    "supplier": "………………………………",
+    "barcode": "1370110",
+    "unit": "220гр",
+    "reg_dc": 0.9504,
+    "promo_dc": 0.8487071999999999,
+    "promo_pc": 1.38,
+    "mistral_codes": [
+      8648
+    ],
+    "group_id": 8,
+    "group_name": "млечни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.83,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ДЕТСТВО МОЕ Пети бьор 220 гр - Пълнозърнести",
+    "marketing_name": "ДЕТСТВО МОЕ Пети бьор 220 гр - Пълнозърнести",
+    "supplier": "………………………………",
+    "barcode": "1370111",
+    "unit": "220гр",
+    "reg_dc": 0.9504,
+    "promo_dc": 0.8487071999999999,
+    "promo_pc": 1.38,
+    "mistral_codes": [
+      8648
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.8,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RICE UP Чипс оризов Барбекю 60 гр",
+    "marketing_name": "RICE UP Чипс оризов Барбекю 60 гр",
+    "supplier": "………………………………",
+    "barcode": "1731101",
+    "unit": "60гр",
+    "reg_dc": 0.7872,
+    "promo_dc": 0.6659712,
+    "promo_pc": 1.02,
+    "mistral_codes": [
+      2600
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.95,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RICE UP Чипс оризов Сметана и лук 60 гр",
+    "marketing_name": "RICE UP Чипс оризов Сметана и лук 60 гр",
+    "supplier": "………………………………",
+    "barcode": "1731102",
+    "unit": "60гр",
+    "reg_dc": 0.7872,
+    "promo_dc": 0.6659712,
+    "promo_pc": 1.02,
+    "mistral_codes": [
+      2606
+    ],
+    "group_id": 8,
+    "group_name": "млечни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.95,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RICE UP Чипс оризов Кетчуп 60 гр",
+    "marketing_name": "RICE UP Чипс оризов Кетчуп 60 гр",
+    "supplier": "………………………………",
+    "barcode": "1731104",
+    "unit": "60гр",
+    "reg_dc": 0.7872,
+    "promo_dc": 0.6659712,
+    "promo_pc": 1.02,
+    "mistral_codes": [
+      2607
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.95,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RICE UP Чипс оризов Сирене 60 гр",
+    "marketing_name": "RICE UP Чипс оризов Сирене 60 гр",
+    "supplier": "………………………………",
+    "barcode": "1731105",
+    "unit": "60гр",
+    "reg_dc": 0.7872,
+    "promo_dc": 0.6659712,
+    "promo_pc": 1.02,
+    "mistral_codes": [
+      2630
+    ],
+    "group_id": 8,
+    "group_name": "млечни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.95,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RICE UP Чипс оризов Паприка 60 гр",
+    "marketing_name": "RICE UP Чипс оризов Паприка 60 гр",
+    "supplier": "………………………………",
+    "barcode": "1731106",
+    "unit": "60гр",
+    "reg_dc": 0.7872,
+    "promo_dc": 0.6659712,
+    "promo_pc": 1.02,
+    "mistral_codes": [
+      11070
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.95,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RICE UP Чипс оризов Морска сол 60 гр",
+    "marketing_name": "RICE UP Чипс оризов Морска сол 60 гр",
+    "supplier": "………………………………",
+    "barcode": "1731108",
+    "unit": "60гр",
+    "reg_dc": 0.7872,
+    "promo_dc": 0.6659712,
+    "promo_pc": 1.02,
+    "mistral_codes": [
+      6274
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.95,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RICE UP Чипс оризов Пица 60 гр",
+    "marketing_name": "RICE UP Чипс оризов Пица 60 гр",
+    "supplier": "………………………………",
+    "barcode": "1731109",
+    "unit": "60гр",
+    "reg_dc": 0.7872,
+    "promo_dc": 0.6659712,
+    "promo_pc": 1.02,
+    "mistral_codes": [
+      11070
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.95,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RICE UP Чипс оризов Карамел. круша и Горгонзола 60",
+    "marketing_name": "RICE UP Чипс оризов Карамел. круша и Горгонзола 60",
+    "supplier": "………………………………",
+    "barcode": "1731111",
+    "unit": "бр.",
+    "reg_dc": 0.7872,
+    "promo_dc": 0.6659712,
+    "promo_pc": 1.02,
+    "mistral_codes": [
+      2635
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.95,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RICE UP Чипс оризов Италиански босилек 60г",
+    "marketing_name": "RICE UP Чипс оризов Италиански босилек 60г",
+    "supplier": "………………………………",
+    "barcode": "1731115",
+    "unit": "60г",
+    "reg_dc": 0.7872,
+    "promo_dc": 0.6659712,
+    "promo_pc": 1.02,
+    "mistral_codes": [
+      12767
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.95,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RICE UP Чипс оризов Гръцки риган 60г",
+    "marketing_name": "RICE UP Чипс оризов Гръцки риган 60г",
+    "supplier": "………………………………",
+    "barcode": "1731116",
+    "unit": "60г",
+    "reg_dc": 0.7872,
+    "promo_dc": 0.6659712,
+    "promo_pc": 1.02,
+    "mistral_codes": [
+      13727
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.95,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RICE UP Чипс оризов Трюфел и пармезан 60г",
+    "marketing_name": "RICE UP Чипс оризов Трюфел и пармезан 60г",
+    "supplier": "………………………………",
+    "barcode": "1731117",
+    "unit": "60г",
+    "reg_dc": 0.7872,
+    "promo_dc": 0.6659712,
+    "promo_pc": 1.02,
+    "mistral_codes": [
+      13727
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.86,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RICE UP Чипс оризов Печено пиле 60г",
+    "marketing_name": "RICE UP Чипс оризов Печено пиле 60г",
+    "supplier": "………………………………",
+    "barcode": "1731118",
+    "unit": "60г",
+    "reg_dc": 0.7872,
+    "promo_dc": 0.6659712,
+    "promo_pc": 1.02,
+    "mistral_codes": [
+      12767
+    ],
+    "group_id": 7,
+    "group_name": "месни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.85,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RICE UP Чипс оризов Гъби и сметана 60г",
+    "marketing_name": "RICE UP Чипс оризов Гъби и сметана 60г",
+    "supplier": "………………………………",
+    "barcode": "1731119",
+    "unit": "60г",
+    "reg_dc": 0.7872,
+    "promo_dc": 0.6659712,
+    "promo_pc": 1.02,
+    "mistral_codes": [
+      13727
+    ],
+    "group_id": 8,
+    "group_name": "млечни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.89,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RICE UP Чипс оризов Супер Семена - Чиа и Киноа 60г",
+    "marketing_name": "RICE UP Чипс оризов Супер Семена - Чиа и Киноа 60г",
+    "supplier": "………………………………",
+    "barcode": "1731201",
+    "unit": "60г",
+    "reg_dc": 0.7872,
+    "promo_dc": 0.6659712,
+    "promo_pc": 1.02,
+    "mistral_codes": [
+      13727
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.73,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RICE UP Протеинов чипс Барбекю 60гр",
+    "marketing_name": "RICE UP Протеинов чипс Барбекю 60гр",
+    "supplier": "………………………………",
+    "barcode": "1731901",
+    "unit": "60гр",
+    "reg_dc": 1.0128,
+    "promo_dc": 0.8568288,
+    "promo_pc": 1.49,
+    "mistral_codes": [
+      18686
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.95,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RICE UP Протеинов чипс Морска сол 60гр",
+    "marketing_name": "RICE UP Протеинов чипс Морска сол 60гр",
+    "supplier": "………………………………",
+    "barcode": "1731902",
+    "unit": "60гр",
+    "reg_dc": 1.0128,
+    "promo_dc": 0.8568288,
+    "promo_pc": 1.02,
+    "mistral_codes": [
+      6274
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.95,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RICE UP Протеинов чипс Сметана и билки 60гр",
+    "marketing_name": "RICE UP Протеинов чипс Сметана и билки 60гр",
+    "supplier": "………………………………",
+    "barcode": "1731903",
+    "unit": "60гр",
+    "reg_dc": 1.0128,
+    "promo_dc": 0.8568288,
+    "promo_pc": 1.49,
+    "mistral_codes": [
+      18686
+    ],
+    "group_id": 8,
+    "group_name": "млечни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.85,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RICE UP Протеинов чипс Пармезан 60гр",
+    "marketing_name": "RICE UP Протеинов чипс Пармезан 60гр",
+    "supplier": "………………………………",
+    "barcode": "1731904",
+    "unit": "60гр",
+    "reg_dc": 1.0128,
+    "promo_dc": 0.8568288,
+    "promo_pc": 1.49,
+    "mistral_codes": [
+      18686
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.95,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RICE UP Протеинов чипс Паприка 60гр",
+    "marketing_name": "RICE UP Протеинов чипс Паприка 60гр",
+    "supplier": "………………………………",
+    "barcode": "1731905",
+    "unit": "60гр",
+    "reg_dc": 1.0128,
+    "promo_dc": 0.8568288,
+    "promo_pc": 1.49,
+    "mistral_codes": [
+      18686
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.95,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ЛОКУМ ОБИКНОВЕН ЗАХ. ЗАВОДИ 140 ГР.",
+    "marketing_name": "ЛОКУМ ОБИКНОВЕН ЗАХ. ЗАВОДИ 140 ГР.",
+    "supplier": "………………………………",
+    "barcode": "1420101",
+    "unit": "140гр",
+    "reg_dc": 0.6552,
+    "promo_dc": 0.5850936,
+    "promo_pc": 0.99,
+    "mistral_codes": [
+      226
+    ],
+    "group_id": 3,
+    "group_name": "захарни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.67,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ЛОКУМ ЦВЕТЕН ЗАХ. ЗАВОДИ 140 ГР.",
+    "marketing_name": "ЛОКУМ ЦВЕТЕН ЗАХ. ЗАВОДИ 140 ГР.",
+    "supplier": "………………………………",
+    "barcode": "1420102",
+    "unit": "140гр",
+    "reg_dc": 0.6552,
+    "promo_dc": 0.5850936,
+    "promo_pc": 0.99,
+    "mistral_codes": [
+      226
+    ],
+    "group_id": 3,
+    "group_name": "захарни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.68,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ЛОКУМ МЕДОВИНА ЗАХ. ЗАВОДИ 100 ГР.",
+    "marketing_name": "ЛОКУМ МЕДОВИНА ЗАХ. ЗАВОДИ 100 ГР.",
+    "supplier": "………………………………",
+    "barcode": "1420104",
+    "unit": "100гр",
+    "reg_dc": 0.6552,
+    "promo_dc": 0.5850936,
+    "promo_pc": 0.99,
+    "mistral_codes": [
+      7912
+    ],
+    "group_id": 3,
+    "group_name": "захарни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.72,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ЛОКУМ ПОРТОКАЛ ЗАХ. ЗАВОДИ 140 ГР.",
+    "marketing_name": "ЛОКУМ ПОРТОКАЛ ЗАХ. ЗАВОДИ 140 ГР.",
+    "supplier": "………………………………",
+    "barcode": "1420113",
+    "unit": "140гр",
+    "reg_dc": 0.6552,
+    "promo_dc": 0.5850936,
+    "promo_pc": 0.99,
+    "mistral_codes": [
+      226
+    ],
+    "group_id": 3,
+    "group_name": "захарни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.67,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ЛОКУМ НАР ЗАХ. ЗАВОДИ 140 ГР.",
+    "marketing_name": "ЛОКУМ НАР ЗАХ. ЗАВОДИ 140 ГР.",
+    "supplier": "………………………………",
+    "barcode": "1420114",
+    "unit": "140гр",
+    "reg_dc": 0.6552,
+    "promo_dc": 0.5850936,
+    "promo_pc": 0.99,
+    "mistral_codes": [
+      226
+    ],
+    "group_id": 3,
+    "group_name": "захарни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.69,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ЛОКУМ ЯГОДА ЗАХ. ЗАВОДИ 140 ГР.",
+    "marketing_name": "ЛОКУМ ЯГОДА ЗАХ. ЗАВОДИ 140 ГР.",
+    "supplier": "………………………………",
+    "barcode": "1420116",
+    "unit": "140гр",
+    "reg_dc": 0.6552,
+    "promo_dc": 0.5850936,
+    "promo_pc": 0.99,
+    "mistral_codes": [
+      226
+    ],
+    "group_id": 3,
+    "group_name": "захарни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.68,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ЛОКУМ  СЛАДКИ ВРЕМЕНА ПЪПЕШ  140 ГР.",
+    "marketing_name": "ЛОКУМ СЛАДКИ ВРЕМЕНА ПЪПЕШ 140 ГР.",
+    "supplier": "………………………………",
+    "barcode": "1420118",
+    "unit": "140гр",
+    "reg_dc": 0.6552,
+    "promo_dc": 0.5850936,
+    "promo_pc": 0.76,
+    "mistral_codes": [
+      16349
+    ],
+    "group_id": 3,
+    "group_name": "захарни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.5,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Инстантни нудъли Биг Ланч задуш.пиле и лук 90",
+    "marketing_name": "Инстантни нудъли Биг Ланч задуш.пиле и лук 90",
+    "supplier": "………………………………",
+    "barcode": "2552001",
+    "unit": "бр.",
+    "reg_dc": 1.5952308,
+    "promo_dc": 1.4245411043999998,
+    "promo_pc": 2.79,
+    "mistral_codes": [
+      18675
+    ],
+    "group_id": 7,
+    "group_name": "месни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.76,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Инстантни нудъли Биг Ланч говеждо, гъби и 90гр",
+    "marketing_name": "Инстантни нудъли Биг Ланч говеждо, гъби и 90гр",
+    "supplier": "………………………………",
+    "barcode": "2552002",
+    "unit": "90гр",
+    "reg_dc": 1.5952308,
+    "promo_dc": 1.4245411043999998,
+    "promo_pc": 2.04,
+    "mistral_codes": [
+      11861
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.9,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Инстантни нудъли Биг Ланч говеждо с лют сос 90g",
+    "marketing_name": "Инстантни нудъли Биг Ланч говеждо с лют сос 90g",
+    "supplier": "………………………………",
+    "barcode": "2552003",
+    "unit": "90g",
+    "reg_dc": 1.5952308,
+    "promo_dc": 1.4245411043999998,
+    "promo_pc": 2.04,
+    "mistral_codes": [
+      11861
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.59,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ТРОЯ Класик 28г ТВ бокс",
+    "marketing_name": "ТРОЯ Класик 28г ТВ бокс",
+    "supplier": "………………………………",
+    "barcode": "1661002",
+    "unit": "28г",
+    "reg_dc": 0.2208,
+    "promo_dc": 0.17641919999999997,
+    "promo_pc": 0.2,
+    "mistral_codes": [
+      631223
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.51,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ТРОЯ ГОЛД/Карамел 28гр. Бокс",
+    "marketing_name": "ТРОЯ ГОЛД/Карамел 28гр. Бокс",
+    "supplier": "………………………………",
+    "barcode": "1661014",
+    "unit": "28гр",
+    "reg_dc": 0.2208,
+    "promo_dc": 0.17641919999999997,
+    "promo_pc": 0.2,
+    "mistral_codes": [
+      17824
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.44,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ТРОЯ лешник 28гр.бокс",
+    "marketing_name": "ТРОЯ лешник 28гр.бокс",
+    "supplier": "………………………………",
+    "barcode": "1661016",
+    "unit": "28гр",
+    "reg_dc": 0.2208,
+    "promo_dc": 0.17641919999999997,
+    "promo_pc": 0.2,
+    "mistral_codes": [
+      9282
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.52,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ТРОЯ Папая 28г ТВ",
+    "marketing_name": "ТРОЯ Папая 28г ТВ",
+    "supplier": "………………………………",
+    "barcode": "1661037",
+    "unit": "28г",
+    "reg_dc": 0.2208,
+    "promo_dc": 0.17641919999999997,
+    "promo_pc": 0.2,
+    "mistral_codes": [
+      631223
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.36,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Бисквити тунк. Траяна 160г",
+    "marketing_name": "Бисквити тунк. Траяна 160г",
+    "supplier": "………………………………",
+    "barcode": "1663001",
+    "unit": "160г",
+    "reg_dc": 1.3068,
+    "promo_dc": 1.0441331999999999,
+    "promo_pc": 1.19,
+    "mistral_codes": [
+      3790
+    ],
+    "group_id": 3,
+    "group_name": "захарни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.6,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Бисквити тунк. Траяна какао 160г",
+    "marketing_name": "Бисквити тунк. Траяна какао 160г",
+    "supplier": "………………………………",
+    "barcode": "1663002",
+    "unit": "160г",
+    "reg_dc": 1.3068,
+    "promo_dc": 1.0441331999999999,
+    "promo_pc": 1.19,
+    "mistral_codes": [
+      3790
+    ],
+    "group_id": 3,
+    "group_name": "захарни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.51,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Бисквити тунк. Траяна портокал 160г",
+    "marketing_name": "Бисквити тунк. Траяна портокал 160г",
+    "supplier": "………………………………",
+    "barcode": "1663003",
+    "unit": "160г",
+    "reg_dc": 1.3068,
+    "promo_dc": 1.0441331999999999,
+    "promo_pc": 1.19,
+    "mistral_codes": [
+      18038
+    ],
+    "group_id": 3,
+    "group_name": "захарни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.53,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Бисквити тунк.Траяна лешник 160г",
+    "marketing_name": "Бисквити тунк.Траяна лешник 160г",
+    "supplier": "………………………………",
+    "barcode": "1663008",
+    "unit": "160г",
+    "reg_dc": 1.3068,
+    "promo_dc": 1.0441331999999999,
+    "promo_pc": 1.19,
+    "mistral_codes": [
+      16890
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.5,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Бисквити тунк.Траяна Боровинка 160г",
+    "marketing_name": "Бисквити тунк.Траяна Боровинка 160г",
+    "supplier": "………………………………",
+    "barcode": "1663009",
+    "unit": "160г",
+    "reg_dc": 1.3068,
+    "promo_dc": 1.0441331999999999,
+    "promo_pc": 1.19,
+    "mistral_codes": [
+      14006
+    ],
+    "group_id": 3,
+    "group_name": "захарни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.63,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ЗЪРНИНИ САЛЦА СЪС СУСАМ 160 ГР.",
+    "marketing_name": "ЗЪРНИНИ САЛЦА СЪС СУСАМ 160 ГР.",
+    "supplier": "………………………………",
+    "barcode": "1364015",
+    "unit": "160гр",
+    "reg_dc": 1.2504,
+    "promo_dc": 1.1166072,
+    "promo_pc": 1.88,
+    "mistral_codes": [
+      9821
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.48,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ЗЪРНИНИ САЛЦА ТИКВЕНО СЕМЕ 160 ГР.",
+    "marketing_name": "ЗЪРНИНИ САЛЦА ТИКВЕНО СЕМЕ 160 ГР.",
+    "supplier": "………………………………",
+    "barcode": "1364016",
+    "unit": "160гр",
+    "reg_dc": 1.2504,
+    "promo_dc": 1.1166072,
+    "promo_pc": 1.99,
+    "mistral_codes": [
+      14343
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.51,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "МЕДЕНИ СЛАДКИ 230гр",
+    "marketing_name": "МЕДЕНИ СЛАДКИ 230гр",
+    "supplier": "………………………………",
+    "barcode": "2560101",
+    "unit": "230гр",
+    "reg_dc": 1.2271008,
+    "promo_dc": 1.0958010143999999,
+    "promo_pc": 1.78,
+    "mistral_codes": [
+      12433
+    ],
+    "group_id": 3,
+    "group_name": "захарни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.95,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Rice UP! Колаген бар малина 50г",
+    "marketing_name": "Rice UP! Колаген бар малина 50г",
+    "supplier": "………………………………",
+    "barcode": "1736005",
+    "unit": "50г",
+    "reg_dc": 1.2756,
+    "promo_dc": 1.0791576,
+    "promo_pc": 1.53,
+    "mistral_codes": [
+      12620
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.69,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Rice UP! Колаген бар портокал 50г",
+    "marketing_name": "Rice UP! Колаген бар портокал 50г",
+    "supplier": "………………………………",
+    "barcode": "1736006",
+    "unit": "50г",
+    "reg_dc": 1.2756,
+    "promo_dc": 1.0791576,
+    "promo_pc": 1.53,
+    "mistral_codes": [
+      12620
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.68,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Rice UP! Колаген бар ванилия 50г",
+    "marketing_name": "Rice UP! Колаген бар ванилия 50г",
+    "supplier": "………………………………",
+    "barcode": "1736007",
+    "unit": "50г",
+    "reg_dc": 1.2756,
+    "promo_dc": 1.0791576,
+    "promo_pc": 1.53,
+    "mistral_codes": [
+      12620
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.7,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RiceUp Колагенов протеинов бар, Банан 50г",
+    "marketing_name": "RiceUp Колагенов протеинов бар, Банан 50г",
+    "supplier": "………………………………",
+    "barcode": "1736008",
+    "unit": "50г",
+    "reg_dc": 1.2756,
+    "promo_dc": 1.0791576,
+    "promo_pc": 2.79,
+    "mistral_codes": [
+      1585
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.44,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RiceUp Колагенов протеинов бар, Кокос 50г",
+    "marketing_name": "RiceUp Колагенов протеинов бар, Кокос 50г",
+    "supplier": "………………………………",
+    "barcode": "1736009",
+    "unit": "50г",
+    "reg_dc": 1.2756,
+    "promo_dc": 1.0791576,
+    "promo_pc": 1.43,
+    "mistral_codes": [
+      9254
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.44,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RiceUp Колагенов протеинов бар, Тофи карамел 50г",
+    "marketing_name": "RiceUp Колагенов протеинов бар, Тофи карамел 50г",
+    "supplier": "………………………………",
+    "barcode": "1736010",
+    "unit": "50г",
+    "reg_dc": 1.2756,
+    "promo_dc": 1.0791576,
+    "promo_pc": 1.43,
+    "mistral_codes": [
+      16076
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.56,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RiceUp Колагенов протеинов бар, Троен Шоколад 50г",
+    "marketing_name": "RiceUp Колагенов протеинов бар, Троен Шоколад 50г",
+    "supplier": "………………………………",
+    "barcode": "1736015",
+    "unit": "50г",
+    "reg_dc": 1.2756,
+    "promo_dc": 1.0791576,
+    "promo_pc": 1.53,
+    "mistral_codes": [
+      10792
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.64,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RiceUp Колагенов протеинов бар,Фъстъчено масло 50г",
+    "marketing_name": "RiceUp Колагенов протеинов бар,Фъстъчено масло 50г",
+    "supplier": "………………………………",
+    "barcode": "1736016",
+    "unit": "50г",
+    "reg_dc": 1.2756,
+    "promo_dc": 1.0791576,
+    "promo_pc": 2.28,
+    "mistral_codes": [
+      19297
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.51,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "RiceUp Колагенов протеинов бар, Шамфъстък 50г",
+    "marketing_name": "RiceUp Колагенов протеинов бар, Шамфъстък 50г",
+    "supplier": "………………………………",
+    "barcode": "1736017",
+    "unit": "50г",
+    "reg_dc": 1.2756,
+    "promo_dc": 1.0791576,
+    "promo_pc": 1.43,
+    "mistral_codes": [
+      9254
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.42,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Протеинова бисквита FitSpo,20g прот,Троен шоколад,",
+    "marketing_name": "Протеинова бисквита FitSpo,20g прот,Троен шоколад,",
+    "supplier": "………………………………",
+    "barcode": "2600604",
+    "unit": "20g",
+    "reg_dc": 1.548,
+    "promo_dc": 1.309608,
+    "promo_pc": 1.53,
+    "mistral_codes": [
+      10792
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.41,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Протеинова бисквита FitSpo,20g протеин ,Банан,70g",
+    "marketing_name": "Протеинова бисквита FitSpo,20g протеин ,Банан,70g",
+    "supplier": "………………………………",
+    "barcode": "2600605",
+    "unit": "20g",
+    "reg_dc": 1.548,
+    "promo_dc": 1.309608,
+    "promo_pc": 0.0,
+    "mistral_codes": [],
+    "group_id": 3,
+    "group_name": "захарни",
+    "mapping_status": "NO_MATCH",
+    "confidence": 0.0,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Протеинова бисквита FitSpo,20g протеин Ванилия, 70",
+    "marketing_name": "Протеинова бисквита FitSpo,20g протеин Ванилия, 70",
+    "supplier": "………………………………",
+    "barcode": "2600606",
+    "unit": "20g",
+    "reg_dc": 1.548,
+    "promo_dc": 1.309608,
+    "promo_pc": 0.0,
+    "mistral_codes": [],
+    "group_id": 3,
+    "group_name": "захарни",
+    "mapping_status": "NO_MATCH",
+    "confidence": 0.0,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Протеинова бисквита FitSpo,20g протеин,Портокал, 7",
+    "marketing_name": "Протеинова бисквита FitSpo,20g протеин,Портокал, 7",
+    "supplier": "………………………………",
+    "barcode": "2600607",
+    "unit": "20g",
+    "reg_dc": 1.548,
+    "promo_dc": 1.309608,
+    "promo_pc": 0.0,
+    "mistral_codes": [],
+    "group_id": 3,
+    "group_name": "захарни",
+    "mapping_status": "NO_MATCH",
+    "confidence": 0.0,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ВАФЛА ЧАЙКА НЕТУНКВАНА КЛАСИК 21 бр.",
+    "marketing_name": "ВАФЛА ЧАЙКА НЕТУНКВАНА КЛАСИК 21 бр.",
+    "supplier": "………………………………",
+    "barcode": "1421054",
+    "unit": "21бр",
+    "reg_dc": 2.2236,
+    "promo_dc": 1.9856747999999997,
+    "promo_pc": 0.3,
+    "mistral_codes": [
+      631223
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.51,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ВАФЛА ЧАЙКА НЕТУНКВАНА КАКАО 21 бр.",
+    "marketing_name": "ВАФЛА ЧАЙКА НЕТУНКВАНА КАКАО 21 бр.",
+    "supplier": "………………………………",
+    "barcode": "1421055",
+    "unit": "21бр",
+    "reg_dc": 2.2236,
+    "promo_dc": 1.9856747999999997,
+    "promo_pc": 0.51,
+    "mistral_codes": [
+      19229
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.51,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "МИРАЖ Ягоди 178г ТБ",
+    "marketing_name": "МИРАЖ Ягоди 178г ТБ",
+    "supplier": "………………………………",
+    "barcode": "1663041",
+    "unit": "178г",
+    "reg_dc": 1.488,
+    "promo_dc": 1.188912,
+    "promo_pc": 1.35,
+    "mistral_codes": [
+      631224
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.43,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "МИРАЖ Малини 178г ТБ",
+    "marketing_name": "МИРАЖ Малини 178г ТБ",
+    "supplier": "………………………………",
+    "barcode": "1663042",
+    "unit": "178г",
+    "reg_dc": 1.488,
+    "promo_dc": 1.188912,
+    "promo_pc": 1.35,
+    "mistral_codes": [
+      631225
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.43,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "МИРАЖ Смокини 178г ТБ",
+    "marketing_name": "МИРАЖ Смокини 178г ТБ",
+    "supplier": "………………………………",
+    "barcode": "1663043",
+    "unit": "178г",
+    "reg_dc": 1.488,
+    "promo_dc": 1.188912,
+    "promo_pc": 1.35,
+    "mistral_codes": [
+      10125
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.44,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "МИРАЖ Боровинки 178г ТБ",
+    "marketing_name": "МИРАЖ Боровинки 178г ТБ",
+    "supplier": "………………………………",
+    "barcode": "1663044",
+    "unit": "178г",
+    "reg_dc": 1.488,
+    "promo_dc": 1.188912,
+    "promo_pc": 1.35,
+    "mistral_codes": [
+      631226
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.45,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "МИРАЖ Къпини 178г ТБ",
+    "marketing_name": "МИРАЖ Къпини 178г ТБ",
+    "supplier": "………………………………",
+    "barcode": "1663045",
+    "unit": "178г",
+    "reg_dc": 1.488,
+    "promo_dc": 1.188912,
+    "promo_pc": 1.35,
+    "mistral_codes": [
+      7620
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.43,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "МИРАЖ Папая и Маракуя 156г ТБ",
+    "marketing_name": "МИРАЖ Папая и Маракуя 156г ТБ",
+    "supplier": "………………………………",
+    "barcode": "1663057",
+    "unit": "156г",
+    "reg_dc": 1.488,
+    "promo_dc": 1.188912,
+    "promo_pc": 1.35,
+    "mistral_codes": [
+      4836
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.45,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ВАФЛЕНА ТОРТА ЧУДО С ФЪСТЪК НА ПАРЧЕ 180 ГР.",
+    "marketing_name": "ВАФЛЕНА ТОРТА ЧУДО С ФЪСТЪК НА ПАРЧЕ 180 ГР.",
+    "supplier": "………………………………",
+    "barcode": "1367001",
+    "unit": "180гр",
+    "reg_dc": 1.23,
+    "promo_dc": 1.0983899999999998,
+    "promo_pc": 1.65,
+    "mistral_codes": [
+      5208
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.95,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ВАФЛЕНА ТОРТА ЧУДО С КОКОС НА ПАРЧЕ 155 ГР.",
+    "marketing_name": "ВАФЛЕНА ТОРТА ЧУДО С КОКОС НА ПАРЧЕ 155 ГР.",
+    "supplier": "………………………………",
+    "barcode": "1367002",
+    "unit": "155гр",
+    "reg_dc": 1.23,
+    "promo_dc": 1.0983899999999998,
+    "promo_pc": 1.65,
+    "mistral_codes": [
+      5611
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.84,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ВАФЛЕНА ТОРТА ЧУДО С ГЛАЗУРА КОКОС  НА ПАРЧЕ 180",
+    "marketing_name": "ВАФЛЕНА ТОРТА ЧУДО С ГЛАЗУРА КОКОС НА ПАРЧЕ 180",
+    "supplier": "………………………………",
+    "barcode": "1367003",
+    "unit": "бр.",
+    "reg_dc": 1.23,
+    "promo_dc": 1.0983899999999998,
+    "promo_pc": 1.65,
+    "mistral_codes": [
+      5612
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.85,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ВАФЛЕНА ТОРТА ЧУДО С ЛЕШНИЦИ  НА ПАРЧЕ 125 ГР.",
+    "marketing_name": "ВАФЛЕНА ТОРТА ЧУДО С ЛЕШНИЦИ НА ПАРЧЕ 125 ГР.",
+    "supplier": "………………………………",
+    "barcode": "1367004",
+    "unit": "125гр",
+    "reg_dc": 1.23,
+    "promo_dc": 1.0983899999999998,
+    "promo_pc": 1.65,
+    "mistral_codes": [
+      12249
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.95,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ВАФЛЕНА ТОРТА ЧУДО ШАМФЪСТЪК 130гр.",
+    "marketing_name": "ВАФЛЕНА ТОРТА ЧУДО ШАМФЪСТЪК 130гр.",
+    "supplier": "………………………………",
+    "barcode": "1367010",
+    "unit": "130гр",
+    "reg_dc": 1.23,
+    "promo_dc": 1.0983899999999998,
+    "promo_pc": 1.65,
+    "mistral_codes": [
+      1515
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.63,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Черен шоколад NOVI Nero 70% какао 75 гр",
+    "marketing_name": "Черен шоколад NOVI Nero 70% какао 75 гр",
+    "supplier": "………………………………",
+    "barcode": "2740101",
+    "unit": "75гр",
+    "reg_dc": 2.3560332,
+    "promo_dc": 1.9932040872,
+    "promo_pc": 3.47,
+    "mistral_codes": [
+      923
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.72,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Черен шоколад NOVI Nero 88% какао 75 гр",
+    "marketing_name": "Черен шоколад NOVI Nero 88% какао 75 гр",
+    "supplier": "………………………………",
+    "barcode": "2740102",
+    "unit": "75гр",
+    "reg_dc": 2.3560332,
+    "promo_dc": 1.9932040872,
+    "promo_pc": 3.47,
+    "mistral_codes": [
+      923
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.6,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Черен шоколад NOVI Nero 70% какао с шамфъстък 75 г",
+    "marketing_name": "Черен шоколад NOVI Nero 70% какао с шамфъстък 75 г",
+    "supplier": "………………………………",
+    "barcode": "2740103",
+    "unit": "75г",
+    "reg_dc": 2.3560332,
+    "promo_dc": 1.9932040872,
+    "promo_pc": 3.47,
+    "mistral_codes": [
+      1383
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.64,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Черен шоколад NOVI Nero 70% какао с лимон и джиндж",
+    "marketing_name": "Черен шоколад NOVI Nero 70% какао с лимон и джиндж",
+    "supplier": "………………………………",
+    "barcode": "2740104",
+    "unit": "бр.",
+    "reg_dc": 2.3560332,
+    "promo_dc": 1.9932040872,
+    "promo_pc": 3.47,
+    "mistral_codes": [
+      906
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.58,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Черен шоколад NOVI Nero 70% какао с порт. и бадем",
+    "marketing_name": "Черен шоколад NOVI Nero 70% какао с порт. и бадем",
+    "supplier": "………………………………",
+    "barcode": "2740105",
+    "unit": "бр.",
+    "reg_dc": 2.3560332,
+    "promo_dc": 1.9932040872,
+    "promo_pc": 3.47,
+    "mistral_codes": [
+      1399
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.47,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Черен шоколад NOVI Nero 70% какао, малини и бадеми",
+    "marketing_name": "Черен шоколад NOVI Nero 70% какао, малини и бадеми",
+    "supplier": "………………………………",
+    "barcode": "2740106",
+    "unit": "бр.",
+    "reg_dc": 2.3560332,
+    "promo_dc": 1.9932040872,
+    "promo_pc": 3.47,
+    "mistral_codes": [
+      1389
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.66,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Черен шоколад NOVI Nero 70% какао, боров.и бадеми",
+    "marketing_name": "Черен шоколад NOVI Nero 70% какао, боров.и бадеми",
+    "supplier": "………………………………",
+    "barcode": "2740107",
+    "unit": "бр.",
+    "reg_dc": 2.3560332,
+    "promo_dc": 1.9932040872,
+    "promo_pc": 3.47,
+    "mistral_codes": [
+      1399
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.57,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Черен шоколад NOVI Nero 70% какао,солен карамел 75",
+    "marketing_name": "Черен шоколад NOVI Nero 70% какао,солен карамел 75",
+    "supplier": "………………………………",
+    "barcode": "2740108",
+    "unit": "бр.",
+    "reg_dc": 2.3560332,
+    "promo_dc": 1.9932040872,
+    "promo_pc": 2.45,
+    "mistral_codes": [
+      15027
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.48,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ОРИЗОВ ЧИПС LIVITY СМЕТАНА И ЛУК 60 гр.",
+    "marketing_name": "ОРИЗОВ ЧИПС LIVITY СМЕТАНА И ЛУК 60 гр.",
+    "supplier": "………………………………",
+    "barcode": "1463011",
+    "unit": "60гр",
+    "reg_dc": 0.7464864,
+    "promo_dc": 0.6315274943999999,
+    "promo_pc": 1.02,
+    "mistral_codes": [
+      2606
+    ],
+    "group_id": 8,
+    "group_name": "млечни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.89,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ОРИЗОВ ЧИПС LIVITY ЧЕДЪР С ДОМАТЕН СОС 60 гр.",
+    "marketing_name": "ОРИЗОВ ЧИПС LIVITY ЧЕДЪР С ДОМАТЕН СОС 60 гр.",
+    "supplier": "………………………………",
+    "barcode": "1463012",
+    "unit": "60гр",
+    "reg_dc": 0.7464864,
+    "promo_dc": 0.6315274943999999,
+    "promo_pc": 1.05,
+    "mistral_codes": [
+      5525
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.72,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ОРИЗОВ ЧИПС LIVITY САЛСА ПАПРИКА 60 гр.",
+    "marketing_name": "ОРИЗОВ ЧИПС LIVITY САЛСА ПАПРИКА 60 гр.",
+    "supplier": "………………………………",
+    "barcode": "1463013",
+    "unit": "60гр",
+    "reg_dc": 0.7464864,
+    "promo_dc": 0.6315274943999999,
+    "promo_pc": 1.05,
+    "mistral_codes": [
+      5525
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.81,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ОРИЗОВ ЧИПС LIVITY ХАВ.СОЛ, ЧЕР.ПИПЕР И ЛАЙМ 60 гр",
+    "marketing_name": "ОРИЗОВ ЧИПС LIVITY ХАВ.СОЛ, ЧЕР.ПИПЕР И ЛАЙМ 60 гр",
+    "supplier": "………………………………",
+    "barcode": "1463014",
+    "unit": "60гр",
+    "reg_dc": 0.7464864,
+    "promo_dc": 0.6315274943999999,
+    "promo_pc": 1.05,
+    "mistral_codes": [
+      5525
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.63,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ОРИЗОВ ЧИПС LIVITY БАРБЕКЮ 60 гр",
+    "marketing_name": "ОРИЗОВ ЧИПС LIVITY БАРБЕКЮ 60 гр",
+    "supplier": "………………………………",
+    "barcode": "1463015",
+    "unit": "60гр",
+    "reg_dc": 0.7464864,
+    "promo_dc": 0.6315274943999999,
+    "promo_pc": 1.05,
+    "mistral_codes": [
+      5525
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.93,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ОРИЗОВ ЧИПС LIVITY ГЪБИ И СМЕТАНА 60 гр",
+    "marketing_name": "ОРИЗОВ ЧИПС LIVITY ГЪБИ И СМЕТАНА 60 гр",
+    "supplier": "………………………………",
+    "barcode": "1463017",
+    "unit": "60гр",
+    "reg_dc": 0.7464864,
+    "promo_dc": 0.6315274943999999,
+    "promo_pc": 1.05,
+    "mistral_codes": [
+      5525
+    ],
+    "group_id": 8,
+    "group_name": "млечни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.81,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ОРИЗОВ ЧИПС LIVITY СУСАМ И ХУМУС  60 гр",
+    "marketing_name": "ОРИЗОВ ЧИПС LIVITY СУСАМ И ХУМУС 60 гр",
+    "supplier": "………………………………",
+    "barcode": "1463018",
+    "unit": "60гр",
+    "reg_dc": 0.7464864,
+    "promo_dc": 0.6315274943999999,
+    "promo_pc": 1.05,
+    "mistral_codes": [
+      5525
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.81,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ОРИЗОВ ЧИПС LIVITY ЧИЯ И КИНОА  60 гр",
+    "marketing_name": "ОРИЗОВ ЧИПС LIVITY ЧИЯ И КИНОА 60 гр",
+    "supplier": "………………………………",
+    "barcode": "1463019",
+    "unit": "60гр",
+    "reg_dc": 0.7464864,
+    "promo_dc": 0.6315274943999999,
+    "promo_pc": 1.02,
+    "mistral_codes": [
+      6289
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.89,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ВЕГАН ГРИЗИНИ С ОРИЗ.БРАШНО И СЕМЕНА 100гр.",
+    "marketing_name": "ВЕГАН ГРИЗИНИ С ОРИЗ.БРАШНО И СЕМЕНА 100гр.",
+    "supplier": "………………………………",
+    "barcode": "2590402",
+    "unit": "100гр",
+    "reg_dc": 2.6496,
+    "promo_dc": 2.3660927999999997,
+    "promo_pc": 2.18,
+    "mistral_codes": [
+      1916
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.53,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ВЕГАН Б-ТИ БЕЗ ГЛУТЕН С БАДЕМОВО БРАШНО100гр.",
+    "marketing_name": "ВЕГАН Б-ТИ БЕЗ ГЛУТЕН С БАДЕМОВО БРАШНО100гр.",
+    "supplier": "………………………………",
+    "barcode": "2590501",
+    "unit": "100гр",
+    "reg_dc": 2.6496,
+    "promo_dc": 2.3660927999999997,
+    "promo_pc": 2.18,
+    "mistral_codes": [
+      1919
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.59,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ТУНКВАНА ВАФЛА ФОКУС ФЪСТЪК 46гр.бокс",
+    "marketing_name": "ТУНКВАНА ВАФЛА ФОКУС ФЪСТЪК 46гр.бокс",
+    "supplier": "………………………………",
+    "barcode": "1200116",
+    "unit": "46гр",
+    "reg_dc": 0.3504,
+    "promo_dc": 0.31290719999999994,
+    "promo_pc": 0.55,
+    "mistral_codes": [
+      5520
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.76,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ТУНКВАНА ВАФЛА ФОКУС 46гр.бокс",
+    "marketing_name": "ТУНКВАНА ВАФЛА ФОКУС 46гр.бокс",
+    "supplier": "………………………………",
+    "barcode": "1200117",
+    "unit": "46гр",
+    "reg_dc": 0.3504,
+    "promo_dc": 0.31290719999999994,
+    "promo_pc": 0.55,
+    "mistral_codes": [
+      5520
+    ],
+    "group_id": 3,
+    "group_name": "захарни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.83,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ТУНКВАНА ВАФЛА ФОКУС ЛИМОН 46гр.бокс",
+    "marketing_name": "ТУНКВАНА ВАФЛА ФОКУС ЛИМОН 46гр.бокс",
+    "supplier": "………………………………",
+    "barcode": "1200118",
+    "unit": "46гр",
+    "reg_dc": 0.3504,
+    "promo_dc": 0.31290719999999994,
+    "promo_pc": 0.55,
+    "mistral_codes": [
+      5520
+    ],
+    "group_id": 3,
+    "group_name": "захарни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.91,
+    "note": "",
+    "source_file": "email_3_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Чипс Кирилов (Видове)",
+    "marketing_name": "Чипс Кирилов (Видове)",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "бр.",
+    "reg_dc": 1.23,
+    "promo_dc": 1.17,
+    "promo_pc": 1.79,
+    "mistral_codes": [
+      19482,
+      9777,
+      18911,
+      778
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.64,
+    "note": "",
+    "source_file": "email_4_Copy of Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Троко Донът 60гр.(видиве)",
+    "marketing_name": "Троко Донът 60гр.(видиве)",
+    "supplier": "Сириус ООД",
+    "barcode": "",
+    "unit": "60гр",
+    "reg_dc": 0.76,
+    "promo_dc": 0.69,
+    "promo_pc": 1.19,
+    "mistral_codes": [
+      19484
+    ],
+    "group_id": 3,
+    "group_name": "захарни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.72,
+    "note": "",
+    "source_file": "email_4_Copy of Бланка брошура- Октомври Бакалия.xls"
+  },
+  {
+    "raw_name": "Роле Трапезица ОРЕХИТЕ слайс тарелка 80г",
+    "marketing_name": "Роле Трапезица ОРЕХИТЕ слайс тарелка 80г",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "80г",
+    "reg_dc": 2.5,
+    "promo_dc": 2.38,
+    "promo_pc": 4.09,
+    "mistral_codes": [
+      2002
+    ],
+    "group_id": 7,
+    "group_name": "месни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.56,
+    "note": "",
+    "source_file": "email_5_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ОРЕХИТЕ Бабек слайс  тарелка 100г",
+    "marketing_name": "ОРЕХИТЕ Бабек слайс тарелка 100г",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "100г",
+    "reg_dc": 2.5,
+    "promo_dc": 2.38,
+    "promo_pc": 3.65,
+    "mistral_codes": [
+      11015
+    ],
+    "group_id": 7,
+    "group_name": "месни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.69,
+    "note": "",
+    "source_file": "email_5_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ОРЕХИТЕ Пастърма свинска слайс тарелка 80",
+    "marketing_name": "ОРЕХИТЕ Пастърма свинска слайс тарелка 80",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "бр.",
+    "reg_dc": 2.5,
+    "promo_dc": 2.38,
+    "promo_pc": 4.99,
+    "mistral_codes": [
+      8765
+    ],
+    "group_id": 7,
+    "group_name": "месни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.66,
+    "note": "",
+    "source_file": "email_5_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ОРЕХИТЕ Старец слайс 100г",
+    "marketing_name": "ОРЕХИТЕ Старец слайс 100г",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "100г",
+    "reg_dc": 2.5,
+    "promo_dc": 2.38,
+    "promo_pc": 3.06,
+    "mistral_codes": [
+      16695
+    ],
+    "group_id": 7,
+    "group_name": "месни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.7,
+    "note": "",
+    "source_file": "email_5_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ТРАКИЙСКИ Бтк с извара и сирене 1кг",
+    "marketing_name": "ТРАКИЙСКИ Бтк с извара и сирене 1кг",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "1кг",
+    "reg_dc": 2.98,
+    "promo_dc": 2.83,
+    "promo_pc": 4.09,
+    "mistral_codes": [
+      14510
+    ],
+    "group_id": 8,
+    "group_name": "млечни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.95,
+    "note": "",
+    "source_file": "email_5_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ТРАКИЙСКИ Бтк със сирене и спанак  1кг",
+    "marketing_name": "ТРАКИЙСКИ Бтк със сирене и спанак 1кг",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "1кг",
+    "reg_dc": 2.98,
+    "promo_dc": 2.83,
+    "promo_pc": 4.09,
+    "mistral_codes": [
+      14510
+    ],
+    "group_id": 8,
+    "group_name": "млечни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.84,
+    "note": "",
+    "source_file": "email_5_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "БЕЛЛА Бтк сирене 8х60",
+    "marketing_name": "БЕЛЛА Бтк сирене 8х60",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "бр.",
+    "reg_dc": 1.7,
+    "promo_dc": 1.62,
+    "promo_pc": 3.79,
+    "mistral_codes": [
+      4200
+    ],
+    "group_id": 8,
+    "group_name": "млечни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.57,
+    "note": "",
+    "source_file": "email_5_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "БЕЛЛА Бтк сирене и спанак 8х60",
+    "marketing_name": "БЕЛЛА Бтк сирене и спанак 8х60",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "бр.",
+    "reg_dc": 1.7,
+    "promo_dc": 1.62,
+    "promo_pc": 4.38,
+    "mistral_codes": [
+      9436
+    ],
+    "group_id": 8,
+    "group_name": "млечни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.66,
+    "note": "",
+    "source_file": "email_5_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ПЕРЕЛИК Луканка слайс 160г",
+    "marketing_name": "ПЕРЕЛИК Луканка слайс 160г",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "160г",
+    "reg_dc": 2.5,
+    "promo_dc": 2.38,
+    "promo_pc": 3.99,
+    "mistral_codes": [
+      15566
+    ],
+    "group_id": 7,
+    "group_name": "месни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.81,
+    "note": "",
+    "source_file": "email_5_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ПЕРЕЛИК Луканка Смядовска слайс 160г",
+    "marketing_name": "ПЕРЕЛИК Луканка Смядовска слайс 160г",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "160г",
+    "reg_dc": 2.5,
+    "promo_dc": 2.38,
+    "promo_pc": 3.99,
+    "mistral_codes": [
+      4832
+    ],
+    "group_id": 7,
+    "group_name": "месни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.71,
+    "note": "",
+    "source_file": "email_5_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ПЕРЕЛИК Суджук слайс 160г",
+    "marketing_name": "ПЕРЕЛИК Суджук слайс 160г",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "160г",
+    "reg_dc": 2.5,
+    "promo_dc": 2.38,
+    "promo_pc": 3.79,
+    "mistral_codes": [
+      6575
+    ],
+    "group_id": 7,
+    "group_name": "месни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.84,
+    "note": "",
+    "source_file": "email_5_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "Пом Бер 50г оригинал (20/k)",
+    "marketing_name": "Пом Бер 50г оригинал (20/k)",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "50г",
+    "reg_dc": 0.877,
+    "promo_dc": 0.789,
+    "promo_pc": 1.02,
+    "mistral_codes": [
+      7765
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.36,
+    "note": "",
+    "source_file": "email_6_Бланка брошура- Ноември Бакалия.xlsx"
+  },
+  {
+    "raw_name": "Пом Бер 50г сирене (20/k)",
+    "marketing_name": "Пом Бер 50г сирене (20/k)",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "50г",
+    "reg_dc": 0.877,
+    "promo_dc": 0.789,
+    "promo_pc": 2.55,
+    "mistral_codes": [
+      4782
+    ],
+    "group_id": 8,
+    "group_name": "млечни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.38,
+    "note": "",
+    "source_file": "email_6_Бланка брошура- Ноември Бакалия.xlsx"
+  },
+  {
+    "raw_name": "Пом Бер 50г кетчуп (20/k)",
+    "marketing_name": "Пом Бер 50г кетчуп (20/k)",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "50г",
+    "reg_dc": 0.877,
+    "promo_dc": 0.789,
+    "promo_pc": 2.04,
+    "mistral_codes": [
+      630504
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.37,
+    "note": "",
+    "source_file": "email_6_Бланка брошура- Ноември Бакалия.xlsx"
+  },
+  {
+    "raw_name": "Пом Бер 50г сметана (20/k)",
+    "marketing_name": "Пом Бер 50г сметана (20/k)",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "50г",
+    "reg_dc": 0.877,
+    "promo_dc": 0.789,
+    "promo_pc": 1.88,
+    "mistral_codes": [
+      1620
+    ],
+    "group_id": 8,
+    "group_name": "млечни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.38,
+    "note": "",
+    "source_file": "email_6_Бланка брошура- Ноември Бакалия.xlsx"
+  },
+  {
+    "raw_name": "Чио чипс 240г сол (12/k)",
+    "marketing_name": "Чио чипс 240г сол (12/k)",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "240г",
+    "reg_dc": 2.47,
+    "promo_dc": 2.058,
+    "promo_pc": 2.04,
+    "mistral_codes": [
+      9969
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.55,
+    "note": "",
+    "source_file": "email_6_Бланка брошура- Ноември Бакалия.xlsx"
+  },
+  {
+    "raw_name": "Чио чипс 240г паприка (12/k)",
+    "marketing_name": "Чио чипс 240г паприка (12/k)",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "240г",
+    "reg_dc": 2.47,
+    "promo_dc": 2.058,
+    "promo_pc": 2.04,
+    "mistral_codes": [
+      9969
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.53,
+    "note": "",
+    "source_file": "email_6_Бланка брошура- Ноември Бакалия.xlsx"
+  },
+  {
+    "raw_name": "Чио чипс 240г сметана и лук (12/k)",
+    "marketing_name": "Чио чипс 240г сметана и лук (12/k)",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "240г",
+    "reg_dc": 2.47,
+    "promo_dc": 2.058,
+    "promo_pc": 3.57,
+    "mistral_codes": [
+      745
+    ],
+    "group_id": 8,
+    "group_name": "млечни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.63,
+    "note": "",
+    "source_file": "email_6_Бланка брошура- Ноември Бакалия.xlsx"
+  },
+  {
+    "raw_name": "Чио чипс 125г сол (10/k)",
+    "marketing_name": "Чио чипс 125г сол (10/k)",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "125г",
+    "reg_dc": 1.543,
+    "promo_dc": 1.283,
+    "promo_pc": 2.3,
+    "mistral_codes": [
+      12955
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.59,
+    "note": "",
+    "source_file": "email_6_Бланка брошура- Октомври Бакалия.xls"
+  },
+  {
+    "raw_name": "Чио чипс 125г паприка (10/k)",
+    "marketing_name": "Чио чипс 125г паприка (10/k)",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "125г",
+    "reg_dc": 1.543,
+    "promo_dc": 1.283,
+    "promo_pc": 2.3,
+    "mistral_codes": [
+      12955
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.58,
+    "note": "",
+    "source_file": "email_6_Бланка брошура- Октомври Бакалия.xls"
+  },
+  {
+    "raw_name": "Чио чипс 125г сметана и лук (10/k)",
+    "marketing_name": "Чио чипс 125г сметана и лук (10/k)",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "125г",
+    "reg_dc": 1.543,
+    "promo_dc": 1.283,
+    "promo_pc": 3.57,
+    "mistral_codes": [
+      745
+    ],
+    "group_id": 8,
+    "group_name": "млечни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.63,
+    "note": "",
+    "source_file": "email_6_Бланка брошура- Октомври Бакалия.xls"
+  },
+  {
+    "raw_name": "Чио чипс 125г пиле (10/k)",
+    "marketing_name": "Чио чипс 125г пиле (10/k)",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "125г",
+    "reg_dc": 1.543,
+    "promo_dc": 1.283,
+    "promo_pc": 2.3,
+    "mistral_codes": [
+      12955
+    ],
+    "group_id": 7,
+    "group_name": "месни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.58,
+    "note": "",
+    "source_file": "email_6_Бланка брошура- Октомври Бакалия.xls"
+  },
+  {
+    "raw_name": "Чио чипс 125г сирене (10/k)",
+    "marketing_name": "Чио чипс 125г сирене (10/k)",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "125г",
+    "reg_dc": 1.543,
+    "promo_dc": 1.283,
+    "promo_pc": 2.3,
+    "mistral_codes": [
+      12955
+    ],
+    "group_id": 8,
+    "group_name": "млечни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.59,
+    "note": "",
+    "source_file": "email_6_Бланка брошура- Октомври Бакалия.xls"
+  },
+  {
+    "raw_name": "Чио чипс 125г барбекю (10/k)",
+    "marketing_name": "Чио чипс 125г барбекю (10/k)",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "125г",
+    "reg_dc": 1.543,
+    "promo_dc": 1.283,
+    "promo_pc": 2.3,
+    "mistral_codes": [
+      12955
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.58,
+    "note": "",
+    "source_file": "email_6_Бланка брошура- Октомври Бакалия.xls"
+  },
+  {
+    "raw_name": "Чио чипс 125г дзадзики (10/k)",
+    "marketing_name": "Чио чипс 125г дзадзики (10/k)",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "125г",
+    "reg_dc": 1.543,
+    "promo_dc": 1.283,
+    "promo_pc": 2.3,
+    "mistral_codes": [
+      12955
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.55,
+    "note": "",
+    "source_file": "email_6_Бланка брошура- Октомври Бакалия.xls"
+  },
+  {
+    "raw_name": "Чио чипс Интенс 120г морска сол",
+    "marketing_name": "Чио чипс Интенс 120г морска сол",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "120г",
+    "reg_dc": 1.543,
+    "promo_dc": 1.283,
+    "promo_pc": 2.45,
+    "mistral_codes": [
+      2589
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.61,
+    "note": "",
+    "source_file": "email_6_Бланка брошура- Октомври Бакалия.xls"
+  },
+  {
+    "raw_name": "Чио чипс Интенс 120г пикантно пиле",
+    "marketing_name": "Чио чипс Интенс 120г пикантно пиле",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "120г",
+    "reg_dc": 1.543,
+    "promo_dc": 1.283,
+    "promo_pc": 2.04,
+    "mistral_codes": [
+      9969
+    ],
+    "group_id": 7,
+    "group_name": "месни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.59,
+    "note": "",
+    "source_file": "email_6_Бланка брошура- Октомври Бакалия.xls"
+  },
+  {
+    "raw_name": "Чио чипс Интенс 120г сладка паприка",
+    "marketing_name": "Чио чипс Интенс 120г сладка паприка",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "120г",
+    "reg_dc": 1.543,
+    "promo_dc": 1.283,
+    "promo_pc": 2.45,
+    "mistral_codes": [
+      2589
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.59,
+    "note": "",
+    "source_file": "email_6_Бланка брошура- Октомври Бакалия.xls"
+  },
+  {
+    "raw_name": "Чио чипс Интенс 120г сметана и магданоз",
+    "marketing_name": "Чио чипс Интенс 120г сметана и магданоз",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "120г",
+    "reg_dc": 1.543,
+    "promo_dc": 1.283,
+    "promo_pc": 2.04,
+    "mistral_codes": [
+      9969
+    ],
+    "group_id": 8,
+    "group_name": "млечни",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.56,
+    "note": "",
+    "source_file": "email_6_Бланка брошура- Октомври Бакалия.xls"
+  },
+  {
+    "raw_name": "Чио чипс Интенс 120г срирача",
+    "marketing_name": "Чио чипс Интенс 120г срирача",
+    "supplier": "………………………………",
+    "barcode": "",
+    "unit": "120г",
+    "reg_dc": 1.543,
+    "promo_dc": 1.283,
+    "promo_pc": 2.45,
+    "mistral_codes": [
+      2589
+    ],
+    "group_id": 2,
+    "group_name": "ядки",
+    "mapping_status": "FUZZY_PROPOSED",
+    "confidence": 0.69,
+    "note": "",
+    "source_file": "email_6_Бланка брошура- Октомври Бакалия.xls"
+  },
+  {
+    "raw_name": "ФАРЕЛ АРОМ.С ПРЪЧИЦИ 100мл. БОЖУР И КРУША",
+    "marketing_name": "ФАРЕЛ АРОМ.С ПРЪЧИЦИ 100мл. БОЖУР И КРУША",
+    "supplier": "………………………………",
+    "barcode": "8691206058005",
+    "unit": "100мл",
+    "reg_dc": 2.93,
+    "promo_dc": 2.591,
+    "promo_pc": 4.38,
+    "mistral_codes": [
+      17600
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "BARCODE_MISTRAL",
+    "confidence": 0.98,
+    "note": "",
+    "source_file": "email_7_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ФАРЕЛ АРОМ.С ПРЪЧИЦИ 100мл. БЯЛ САПУН",
+    "marketing_name": "ФАРЕЛ АРОМ.С ПРЪЧИЦИ 100мл. БЯЛ САПУН",
+    "supplier": "………………………………",
+    "barcode": "8691206058029",
+    "unit": "100мл",
+    "reg_dc": 2.93,
+    "promo_dc": 2.591,
+    "promo_pc": 4.38,
+    "mistral_codes": [
+      17600
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "BARCODE_MISTRAL",
+    "confidence": 0.98,
+    "note": "",
+    "source_file": "email_7_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ФАРЕЛ АРОМ.С ПРЪЧИЦИ 100мл. ДЪВКА",
+    "marketing_name": "ФАРЕЛ АРОМ.С ПРЪЧИЦИ 100мл. ДЪВКА",
+    "supplier": "………………………………",
+    "barcode": "8691206058012",
+    "unit": "100мл",
+    "reg_dc": 2.93,
+    "promo_dc": 2.591,
+    "promo_pc": 4.38,
+    "mistral_codes": [
+      17600
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "BARCODE_MISTRAL",
+    "confidence": 0.98,
+    "note": "",
+    "source_file": "email_7_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ФАРЕЛ АРОМ.С ПРЪЧИЦИ 100мл. КАФЕ ЛАТЕ",
+    "marketing_name": "ФАРЕЛ АРОМ.С ПРЪЧИЦИ 100мл. КАФЕ ЛАТЕ",
+    "supplier": "………………………………",
+    "barcode": "8691206058036",
+    "unit": "100мл",
+    "reg_dc": 2.93,
+    "promo_dc": 2.591,
+    "promo_pc": 4.38,
+    "mistral_codes": [
+      17600
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "BARCODE_MISTRAL",
+    "confidence": 0.98,
+    "note": "",
+    "source_file": "email_7_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ФАРЕЛ АРОМ.С ПРЪЧИЦИ 100мл. КЪПИНА",
+    "marketing_name": "ФАРЕЛ АРОМ.С ПРЪЧИЦИ 100мл. КЪПИНА",
+    "supplier": "………………………………",
+    "barcode": "8691206058050",
+    "unit": "100мл",
+    "reg_dc": 2.93,
+    "promo_dc": 2.591,
+    "promo_pc": 4.38,
+    "mistral_codes": [
+      17600
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "BARCODE_MISTRAL",
+    "confidence": 0.98,
+    "note": "",
+    "source_file": "email_7_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ФАРЕЛ АРОМ.С ПРЪЧИЦИ 100мл. МАНГО И ДИНЯ",
+    "marketing_name": "ФАРЕЛ АРОМ.С ПРЪЧИЦИ 100мл. МАНГО И ДИНЯ",
+    "supplier": "………………………………",
+    "barcode": "8691206058074",
+    "unit": "100мл",
+    "reg_dc": 2.93,
+    "promo_dc": 2.591,
+    "promo_pc": 4.38,
+    "mistral_codes": [
+      17600
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "BARCODE_MISTRAL",
+    "confidence": 0.98,
+    "note": "",
+    "source_file": "email_7_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ФАРЕЛ АРОМ.С ПРЪЧИЦИ 100мл. ПРОЛЕТ",
+    "marketing_name": "ФАРЕЛ АРОМ.С ПРЪЧИЦИ 100мл. ПРОЛЕТ",
+    "supplier": "………………………………",
+    "barcode": "8691206058043",
+    "unit": "100мл",
+    "reg_dc": 2.93,
+    "promo_dc": 2.591,
+    "promo_pc": 4.38,
+    "mistral_codes": [
+      17600
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "BARCODE_MISTRAL",
+    "confidence": 0.98,
+    "note": "",
+    "source_file": "email_7_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "ФАРЕЛ АРОМ.С ПРЪЧИЦИ 100мл. ПУДРА",
+    "marketing_name": "ФАРЕЛ АРОМ.С ПРЪЧИЦИ 100мл. ПУДРА",
+    "supplier": "………………………………",
+    "barcode": "8691206058067",
+    "unit": "100мл",
+    "reg_dc": 2.93,
+    "promo_dc": 2.591,
+    "promo_pc": 4.38,
+    "mistral_codes": [
+      17600
+    ],
+    "group_id": 1,
+    "group_name": "напитки",
+    "mapping_status": "BARCODE_MISTRAL",
+    "confidence": 0.98,
+    "note": "",
+    "source_file": "email_7_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "БИКС ТЕЧЕН 3л БЯЛО 63 пранета",
+    "marketing_name": "БИКС ТЕЧЕН 3л БЯЛО 63 пранета",
+    "supplier": "………………………………",
+    "barcode": "8692624160011",
+    "unit": "3л",
+    "reg_dc": 3.732,
+    "promo_dc": 3.474,
+    "promo_pc": 4.6,
+    "mistral_codes": [
+      3062
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "BARCODE_MISTRAL",
+    "confidence": 0.98,
+    "note": "",
+    "source_file": "email_7_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "БИКС ТЕЧЕН 3л КОЛОР СИН 63 пранета",
+    "marketing_name": "БИКС ТЕЧЕН 3л КОЛОР СИН 63 пранета",
+    "supplier": "………………………………",
+    "barcode": "8692624160028",
+    "unit": "3л",
+    "reg_dc": 3.732,
+    "promo_dc": 3.474,
+    "promo_pc": 4.6,
+    "mistral_codes": [
+      3062
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "BARCODE_MISTRAL",
+    "confidence": 0.98,
+    "note": "",
+    "source_file": "email_7_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "БИКС ТЕЧЕН 3л УНИВЕРСАЛ ЧЕРВЕН 63 пранета",
+    "marketing_name": "БИКС ТЕЧЕН 3л УНИВЕРСАЛ ЧЕРВЕН 63 пранета",
+    "supplier": "………………………………",
+    "barcode": "8692624168901",
+    "unit": "3л",
+    "reg_dc": 3.732,
+    "promo_dc": 3.474,
+    "promo_pc": 4.6,
+    "mistral_codes": [
+      3062
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "BARCODE_MISTRAL",
+    "confidence": 0.98,
+    "note": "",
+    "source_file": "email_7_Бланка брошура- Ноември Бакалия.xls"
+  },
+  {
+    "raw_name": "БИКС ТЕЧЕН 3л ЧЕРЕН 63 пранета",
+    "marketing_name": "БИКС ТЕЧЕН 3л ЧЕРЕН 63 пранета",
+    "supplier": "………………………………",
+    "barcode": "8692624160035",
+    "unit": "3л",
+    "reg_dc": 3.732,
+    "promo_dc": 3.474,
+    "promo_pc": 4.6,
+    "mistral_codes": [
+      3062
+    ],
+    "group_id": 6,
+    "group_name": "масови",
+    "mapping_status": "BARCODE_MISTRAL",
+    "confidence": 0.98,
+    "note": "",
+    "source_file": "email_7_Бланка брошура- Ноември Бакалия.xls"
+  }
+]

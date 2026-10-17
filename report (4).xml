@@ -1,0 +1,522 @@
+﻿<AccountMovements xmlns:d="http://schemas.datacontract.org/2004/07/DAIS.eBank.Client.WEB.mvc.Accounts.Models" xmlns:d1="http://schemas.datacontract.org/2004/07/DAIS.eBank.Client.WEB.mvc.Accounts.Models">
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>9000005915 NTYPE 000000000000 OPNAT J</Reason>
+    <OppositeSideName>ЕКСПРЕС ДИСТРИБЮШЪН ЕООД</OppositeSideName>
+    <OppositeSideAccount>BG19UNCR70001525260708</OppositeSideAccount>
+    <MovementType>Credit</MovementType>
+    <Amount>937,38</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ПРЕХВЪРЛЯНЕ НА СРЕДСТВА                                     ISI2809260045027</Reason>
+    <OppositeSideName>БАКАЛИЯ 2014 ООД</OppositeSideName>
+    <OppositeSideAccount>BG44FINV91501016121573</OppositeSideAccount>
+    <MovementType>Credit</MovementType>
+    <Amount>15000,00</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ПРЕХВЪРЛЯНЕ НА СРЕДСТВА                                     ISI2809260045029</Reason>
+    <OppositeSideName>БАКАЛИЯ 2014 ООД</OppositeSideName>
+    <OppositeSideAccount>BG44FINV91501016121573</OppositeSideAccount>
+    <MovementType>Credit</MovementType>
+    <Amount>15000,00</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ПРЕХВЪРЛЯНЕ НА СРЕДСТВА                                     ISI2809260045028</Reason>
+    <OppositeSideName>БАКАЛИЯ 2014 ООД</OppositeSideName>
+    <OppositeSideAccount>BG44FINV91501016121573</OppositeSideAccount>
+    <MovementType>Credit</MovementType>
+    <Amount>15000,00</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ПРЕХВЪРЛЯНЕ НА СРЕДСТВА                                     ISI2809260045030</Reason>
+    <OppositeSideName>БАКАЛИЯ 2014 ООД</OppositeSideName>
+    <OppositeSideAccount>BG44FINV91501016121573</OppositeSideAccount>
+    <MovementType>Credit</MovementType>
+    <Amount>15000,00</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ОСИГУРИТЕЛНИ ВНОСКИ ДОО                                     БАКАЛИЯ 2014 ООД</Reason>
+    <OppositeSideName>НАП</OppositeSideName>
+    <OppositeSideAccount>BG88BNBG96618000195001</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>5323,24</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981320298</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ДЗПО                                                        БАКАЛИЯ 2014 ООД</Reason>
+    <OppositeSideName>НАП</OppositeSideName>
+    <OppositeSideAccount>BG65BNBG96618000111801</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>3066,94</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981320299</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ОСИГУРИТЕЛНИ ВНОСКИ НЗОК                                    БАКАЛИЯ 2014 ООД</Reason>
+    <OppositeSideName>НАП</OppositeSideName>
+    <OppositeSideAccount>BG16BNBG96618000112101</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>5477,85</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981320303</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>СОЦИАЛНИ ОСИГУРОВКИ                                         БАКАЛИЯ 2014 ООД</Reason>
+    <OppositeSideName>НАП</OppositeSideName>
+    <OppositeSideAccount>BG97BNBG96618000112001</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>13247,37</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981320304</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ДАНЪК 10  НАЕМ ПОМЕЩЕНИЕ ЗА МЕСЕЦ 08 2026                   БАКАЛИЯ 2014 ООД</Reason>
+    <OppositeSideName>НАП ОФИС ЦЕНТЪР</OppositeSideName>
+    <OppositeSideAccount>BG88BNBG96618000195001</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>1056,80</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981320310</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>АВАНСОВ ДАНЪК 2026                                          БАКАЛИЯ 2014 ООД</Reason>
+    <OppositeSideName>НАП ОФИС ЦЕНТЪР</OppositeSideName>
+    <OppositeSideAccount>BG88BNBG96618000195001</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>250,00</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981320311</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ОПИС 07-13.09</Reason>
+    <OppositeSideName>АВЕНДИ ООД</OppositeSideName>
+    <OppositeSideAccount>BG25UBBS80021071806740</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>357,04</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981320987</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ОПИС 08-13.09</Reason>
+    <OppositeSideName>АКСОН БЪЛГАРИЯ АД</OppositeSideName>
+    <OppositeSideAccount>BG87UNCR70001523294167</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>883,09</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981320988</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>1120730</Reason>
+    <OppositeSideName>БЕСТ ФУДС ООД</OppositeSideName>
+    <OppositeSideAccount>BG78UBBS81551006097570</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>652,47</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981320989</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>4111700</Reason>
+    <OppositeSideName>БОКИТА ЕООД</OppositeSideName>
+    <OppositeSideAccount>BG58FINV91501017566233</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>1671,77</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981320990</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ПРОТОКОЛ 17.09</Reason>
+    <OppositeSideName>ЕФЕКТ 2002 ЕООД</OppositeSideName>
+    <OppositeSideAccount>BG38UNCR70001520194832</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>2822,33</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981320991</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>412958 КИ 412957</Reason>
+    <OppositeSideName>ЕЛИТ -П ЕООД</OppositeSideName>
+    <OppositeSideAccount>BG50STSA93000031603730</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>714,99</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ВЪТРЕШНОБАНКОВ ПРЕВОДЕЛ.БАНКИРАНЕ                  20260928029981320992</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291013730029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,10</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>OPIS 24-28.08</Reason>
+    <OppositeSideName>VISTA AVT AD</OppositeSideName>
+    <OppositeSideAccount>BG09INGB91451002490510</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>3098,16</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981320993</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>OPIS 31.08-06.09</Reason>
+    <OppositeSideName>VISTA AVT AD</OppositeSideName>
+    <OppositeSideAccount>BG09INGB91451002490510</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>4785,60</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981320994</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>OPIS 17.09</Reason>
+    <OppositeSideName>DANON SERDIKA AD</OppositeSideName>
+    <OppositeSideAccount>BG90INGB91451000000614</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>1810,48</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981320995</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>2000019712</Reason>
+    <OppositeSideName>ДЕСТАН ЕООД</OppositeSideName>
+    <OppositeSideAccount>BG47UBBS81551001485778</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>565,75</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981320996</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>74016</Reason>
+    <OppositeSideName>Д Р КЕСКИН БЪЛГАРИЯ ЕООД</OppositeSideName>
+    <OppositeSideAccount>BG47PRCB92301035110410</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>886,24</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981320997</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ОПИС 24-30.08</Reason>
+    <OppositeSideName>ЕТ ГЕОРГИ ГАЙДОВ</OppositeSideName>
+    <OppositeSideAccount>BG46UNCR96601005351308</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>18057,44</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981320998</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>5330</Reason>
+    <OppositeSideName>ТРЕЙДПРО 17 ООД</OppositeSideName>
+    <OppositeSideAccount>BG15UBBS80021046033050</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>810,62</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981320999</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ОПИС 07-13.09</Reason>
+    <OppositeSideName>ХОЛИДЕЙ КРАФТ ЕООД</OppositeSideName>
+    <OppositeSideAccount>BG49UNCR70001525140470</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>424,22</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981321000</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>54049,50,54,107</Reason>
+    <OppositeSideName>СЕЛЕСТА ТРЕЙДИНГ ООД</OppositeSideName>
+    <OppositeSideAccount>BG95STSA93000022629256</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>1174,52</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ВЪТРЕШНОБАНКОВ ПРЕВОДЕЛ.БАНКИРАНЕ                  20260928029981321002</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291013730029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,10</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>100134695</Reason>
+    <OppositeSideName>СММ КОМЕРС ООД</OppositeSideName>
+    <OppositeSideAccount>BG25STSA93000032188896</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>1232,12</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ВЪТРЕШНОБАНКОВ ПРЕВОДЕЛ.БАНКИРАНЕ                  20260928029981321004</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291013730029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,10</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>16021 КИ 31286</Reason>
+    <OppositeSideName>ИВ АН 2014 ЕООД</OppositeSideName>
+    <OppositeSideAccount>BG46UNCR70001523581831</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>783,60</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981321005</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>63915 КИ 16</Reason>
+    <OppositeSideName>МАКЛЕР КЛАСИК ЕООД</OppositeSideName>
+    <OppositeSideAccount>BG78BPBI79421026154601</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>211,27</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981321006</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>226082</Reason>
+    <OppositeSideName>МАРГАРИТ ЕООД</OppositeSideName>
+    <OppositeSideAccount>BG21PRCB92301050064301</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>1992,81</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981321007</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ОПИС 21.09</Reason>
+    <OppositeSideName>ТАНДЕМ  В ООД</OppositeSideName>
+    <OppositeSideAccount>BG73UNCR96601026048100</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>1526,85</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ТАКСА ЗА ИЗХОДЯЩ ПРЕВОД       BISERA7                       20260928029981321008</Reason>
+    <OppositeSideName></OppositeSideName>
+    <OppositeSideAccount>7291014430029999</OppositeSideAccount>
+    <MovementType>Debit</MovementType>
+    <Amount>0,36</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>PREHWYRLQNE NA SREDSTWA</Reason>
+    <OppositeSideName>БАКАЛИЯ 2014 ООД</OppositeSideName>
+    <OppositeSideAccount>BG92STSA93000031252804</OppositeSideAccount>
+    <MovementType>Credit</MovementType>
+    <Amount>12500,00</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>28.09.2026</ValueDate>
+    <Reason>ПРЕХВЪРЛЯНЕ НА СРЕДСТВА                                     ISI2809260050298</Reason>
+    <OppositeSideName>БАКАЛИЯ 2014 ООД</OppositeSideName>
+    <OppositeSideAccount>BG44FINV91501016121573</OppositeSideAccount>
+    <MovementType>Credit</MovementType>
+    <Amount>8000,00</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>25.09.2026</ValueDate>
+    <Reason>ЗАД. БИО ВАЯ ЕООД - ФАКТОРИНГ Ф. 9000005889                 ISI2509260033269</Reason>
+    <OppositeSideName>LIBERTIN</OppositeSideName>
+    <OppositeSideAccount>BG18BPBI79451471687301</OppositeSideAccount>
+    <MovementType>Credit</MovementType>
+    <Amount>350,00</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>25.09.2026</ValueDate>
+    <Reason>ПО Ф-РА900005696</Reason>
+    <OppositeSideName>ХЕЛИОСАГРО ЕООД</OppositeSideName>
+    <OppositeSideAccount>BG24DEMI92401000288473</OppositeSideAccount>
+    <MovementType>Credit</MovementType>
+    <Amount>220,00</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>25.09.2026</ValueDate>
+    <Reason>F-RI 9000005812 I 9000005813/06.08.2026                     ISI2509260008013</Reason>
+    <OppositeSideName>NIKI B LTD</OppositeSideName>
+    <OppositeSideAccount>BG08BPBI88981028987201</OppositeSideAccount>
+    <MovementType>Credit</MovementType>
+    <Amount>359,00</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>25.09.2026</ValueDate>
+    <Reason>Ф.9000005985.08.09.2026Г.                                   ISI2509260001612</Reason>
+    <OppositeSideName>ОПТИМО ООД</OppositeSideName>
+    <OppositeSideAccount>BG84UBBS84271010265610</OppositeSideAccount>
+    <MovementType>Credit</MovementType>
+    <Amount>570,00</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>24.09.2026</ValueDate>
+    <Reason>Vrashtane na greshno prevedena suma</Reason>
+    <OppositeSideName>EDENRED BULGARIA AD</OppositeSideName>
+    <OppositeSideAccount>BG36BNPA94401021725613</OppositeSideAccount>
+    <MovementType>Credit</MovementType>
+    <Amount>203,42</Amount>
+  </AccountMovement>
+  <AccountMovement>
+    <ValueDate>24.09.2026</ValueDate>
+    <Reason>D:9000006029,</Reason>
+    <OppositeSideName>KAMENITZA AD</OppositeSideName>
+    <OppositeSideAccount>BG39CITI92501000125200</OppositeSideAccount>
+    <MovementType>Credit</MovementType>
+    <Amount>2623,38</Amount>
+  </AccountMovement>
+</AccountMovements>
